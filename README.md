@@ -1,1 +1,10 @@
 # Electricity-Billing-System
+There are some issues with the manual system. The procedure of keeping and maintaining the information is quite time-consuming and laborious for the consumer because all of the bills must be managed manually. It is an extremely arduous and time-consuming method because staff members must go to the clients' homes each month to deliver bills and collect money. Due to this, we have included features. Although the current system is computerised and only partially automated, it is still rather arduous because the same information must be entered multiple times.
+The goals of our initiative are as follows: To save the month's consumption of energy information. To maintain customer information. To save the data about last month's energy consumption per unit. To regularly calculate the units consumed each month. To produce the bills, add the price and penalty. To speed up the payment procedure by going online.
+Since all electricity bill records are kept online, this project solution does not require retaining paper electricity bills.
+The administrator is not required to manually keep track of the users. The penalty is calculated automatically by the system.
+Users can pay their bills online without going to the office.
+Bills can be delivered to users' homes without the usage of a delivery boy.
+As a result, it conserves resources and labor.
+As a result, the traditional method of billing for power is expensive, needs a large number of employees to perform basic tasks, and takes a long time. A web-based computerized system is necessary to resolve this time-consuming billing process. With its features, the suggested power billing system project overcomes all of these shortcomings. Both consumers and the firm that provides electricity gain from it.
+The new system reduces the number of employees that the organization will need to hire. The software operates more quickly and with higher performance, which saves time. Additionally, there is extremely minimal likelihood of staff corruption and computation errors.
